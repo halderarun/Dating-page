@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Date Night? ð</title>
+  <title>Date Night</title>
   <style>
     * {
       box-sizing: border-box;
@@ -152,19 +152,19 @@
     
     <!-- STEP 1: THE QUESTION -->
     <div class="step active" id="step1">
-      <div class="emoji">ð</div>
+      <div class="emoji"></div>
       <h1>Will you go on a date with me?</h1>
       <p>I have something special planned for us!</p>
       
       <div class="btn-group">
-        <button class="btn-yes" id="yesBtn">Yes! ð¥°</button>
-        <button class="btn-no" id="noBtn">No ð</button>
+        <button class="btn-yes" id="yesBtn">Yes!</button>
+        <button class="btn-no" id="noBtn">No </button>
       </div>
     </div>
 
     <!-- STEP 2: DATE & TIME -->
     <div class="step" id="step2">
-      <div class="emoji">ð</div>
+      <div class="emoji">💓</div>
       <h1>Pick a Date & Time</h1>
       <p>When are you free?</p>
 
@@ -204,7 +204,7 @@
 
   <script>
     // YOUR WHATSAPP NUMBER HERE (Include Country Code, e.g., 12345678901)
-    const MY_PHONE_NUMBER = "1234567890";
+    const MY_PHONE_NUMBER = "917872658725";
 
     const step1 = document.getElementById('step1');
     const step2 = document.getElementById('step2');
